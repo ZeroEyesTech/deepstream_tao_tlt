@@ -177,7 +177,7 @@ The model has the following two outputs:
 - **softmax_1**: A [batchSize, H, W, C] tensor containing the scores for each class
 
 #### 11. multi_task
-- refer detailed [README](./configs/multi_task_tao/README.md) for how to configure and run the model
+- refer detailed [README](configs_examples/multi_task_tao/README.md) for how to configure and run the model
 
 #### 12. EfficientDet
 
